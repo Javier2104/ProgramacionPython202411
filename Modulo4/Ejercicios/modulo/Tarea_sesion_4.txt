@@ -1,0 +1,9 @@
+Parte 1:
+a: obtener los datos de una api cualquiera
+b: obtener los datos de una api cualquiera, usando un token
+informar al grupo por WhatsApp qué api van a usar, para que no se repita por alumno
+
+Parte 2:
+a: guardar los datos de la api en un archivo txt
+b: guardar los datos de la api en un archivo csv
+c: guardar los datos de la api en una base de datos
