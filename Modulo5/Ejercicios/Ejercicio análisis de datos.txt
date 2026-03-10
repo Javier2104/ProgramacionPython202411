@@ -1,0 +1,29 @@
+Piensen en algún dataset que quisieran analizar (ventas de una empresa transnacional, créditos otorgados por una entidad financiera, fallecidos registrados por Sinadef, etc.)
+
+Encuentren un dataset relacionado a lo que quieren analizar, sugiero buscar en alguna de estas fuentes https://iddigitalschool.com/bootcamps/10-sitios-donde-descargar-datasets-de-calidad/
+
+Elaboren el archivo .ipynb de su proyecto.
+
+El contenido del proyecto debe seguir esta estructura:
+
+1️⃣ Comprensión y preparación del dataset
+¿Cuál es la estructura del dataset?
+Número de filas y columnas
+Tipos de datos
+¿Qué problemas de calidad de datos identificaron?
+Valores nulos
+Duplicados
+Outliers
+¿Qué estrategia utilizaron para:
+Reemplazar valores?
+Eliminar columnas?
+Transformar variables?
+¿Qué variables decidieron convertir a numéricas y por qué?
+¿Qué decisiones tomaron que podrían afectar el modelo?
+
+2️⃣ Análisis exploratorio (EDA)
+¿Qué variables son más relevantes descriptivamente?
+¿Existen distribuciones no normales? ¿Cómo lo verificaron?
+¿Detectaron correlaciones importantes?
+¿Hay estacionalidad o patrones temporales?
+¿Qué insights de negocio pueden extraer?
